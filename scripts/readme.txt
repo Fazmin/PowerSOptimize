@@ -1,6 +1,5 @@
 --------------------------------------------------------------------------------
-This package is ONLY compatible with version 0.41 of PowerSOptimize and higher!
-You can download the latest version here: https://github.com/builtbybel/powersoptimize/releases
+This package is ONLY compatible with version 0.11 of PowerSOptimize and higher!
 --------------------------------------------------------------------------------
 
 This feature enhances PowerSOptimize and adds several community powered PowerShell script files which allows to:
